@@ -62,5 +62,5 @@ return response()->contentType('image/png');
 exit();
 ```
 
-## 呜谢
+## 鸣谢
 [moonwalkercui/postermaker](https://github.com/moonwalkercui/postermaker)
