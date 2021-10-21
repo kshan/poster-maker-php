@@ -5,7 +5,7 @@ A poster make base on gd lib. (PHP)  一个用php生成海报的神器
 
 比如在文件someaction.php中使用：
 ```
-use \Kshan\PosterMaker;
+use \Kshan\PosterMaker\Postermaker;
 
 $poster = new Postermaker(800, 1100);
 $poster
