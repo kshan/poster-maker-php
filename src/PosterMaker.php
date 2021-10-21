@@ -76,7 +76,7 @@ class PosterMaker
             }    
         }  
         
-        imagettftext($this->bg, $size, $angle, $xy[0], $xy[1], $font_color, $font_file, $text);
+        imagettftext($this->bg, $size, $angle, $x, $y, $font_color, $font_file, $text);
         return $this;
     }
     /**
